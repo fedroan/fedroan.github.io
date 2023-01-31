@@ -64,6 +64,7 @@ section img {
     width: 100%;
     z-index: 2;
     border: #f9004d;
+    border-radius: 35px;
 }
 
 nav {
